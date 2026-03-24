@@ -23,7 +23,7 @@ equipos = {}
 while True:
     limpiar_pantalla()
     print("=" * 55)
-    print("/n HERRAMIENTA DE DIAGNOSTICO DE RED (SOPORTE TI) ")
+    print("\n HERRAMIENTA DE DIAGNOSTICO DE RED (SOPORTE TI) ")
     print("=" * 55)
     print("1. Agregar un equipo a la lista (IP y Nombre)")
     print("2. Ver lista de equipos a monitorear")
