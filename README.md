@@ -1,8 +1,8 @@
-# 🌐 Monitor de Redes Interactivo (Python)
+# Monitor de Redes Interactivo (Python)
 
 Herramienta por consola diseñada para el diagnóstico rápido de conectividad en redes locales (LAN) y verificación de salida a Internet mediante el protocolo ICMP.
 
-## 🛠️ ¿Qué hace este script?
+## ¿Qué hace este script?
 Este programa automatiza el envío de paquetes **Ping** para verificar el estado de múltiples equipos (Routers, Switches, Access Points, DNS, etc.) desde una interfaz limpia y amigable para mesas de ayuda o soporte de nivel 1.
 
 ### Características principales:
@@ -10,7 +10,7 @@ Este programa automatiza el envío de paquetes **Ping** para verificar el estado
 * **Contexto de Red:** Asocia cada IP con un nombre o descripción (ej. "Switch Core", "Router Cliente").
 * **Multiplataforma:** El código detecta automáticamente si el sistema operativo es Windows o Linux/macOS para adaptar la sintaxis del comando nativo.
 
-## 🚀 Cómo utilizarlo
+## Cómo utilizarlo
 1. Asegúrate de tener Python instalado en el sistema.
 2. Descarga el archivo principal del código.
 3. Abre una terminal (CMD o PowerShell) en la ruta del archivo y ejecuta: `python monitor.py`
